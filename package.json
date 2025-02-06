@@ -1,0 +1,12 @@
+{
+    "name": "cloud-run-docker-app",
+    "version": "1.0.0",
+    "description": "A simple Node.js app to be deployed on Cloud Run using Docker.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
